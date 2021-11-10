@@ -1,7 +1,7 @@
 
 
 
-#include "so_long.h"
+#include "../INC/so_long.h"
 
 
 void *mlx;
